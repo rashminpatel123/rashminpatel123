@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rashminpatel123
 - 👀 I’m interested in solving problems through softwares
-- 🌱 I’m currently learning big data storage and it's storage
+- 🌱 I’m currently learning big data storage and it's processing
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach out to me at rashminpatel405@gmail.com
 
